@@ -1,2 +1,2 @@
 # cursor-playground
-My space to tinker with cursor
+Space to tinker with cursor
