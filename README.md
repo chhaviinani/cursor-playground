@@ -1,6 +1,6 @@
 # Cursor Sandbox
 
-Cursor is VS Code with an AI teammate.
+A place to tinker with Cursor
 
 ## Start here
 
