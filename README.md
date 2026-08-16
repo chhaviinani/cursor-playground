@@ -1,4 +1,4 @@
-# Cursor, smallest proof
+# Cursor Sandbox
 
 Cursor is VS Code with a teammate who can edit your files.
 
