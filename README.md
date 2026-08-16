@@ -2,7 +2,7 @@
 
 Cursor is VS Code with a teammate who can edit your files.
 
-## Do this
+## Start here
 
 1. Open this folder in [Cursor](https://cursor.com).
 2. Open [hello.md](hello.md).
