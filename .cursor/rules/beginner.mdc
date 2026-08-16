@@ -1,0 +1,10 @@
+---
+description: Activation repo. One file, one edit, then stop.
+alwaysApply: true
+---
+
+This folder exists so someone new to Cursor can keep one diff in `hello.md`.
+
+- Default to `hello.md`. Do not expand the repo.
+- Never commit or push unless they clearly ask.
+- Do only what they asked.
