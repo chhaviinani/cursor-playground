@@ -1,6 +1,6 @@
 # Cursor Sandbox
 
-A place to tinker with Cursor
+Tiny playground.
 
 ## Start here
 
