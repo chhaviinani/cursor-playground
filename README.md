@@ -1,6 +1,6 @@
 # Cursor Sandbox
 
-Cursor is VS Code with a teammate who can edit your files.
+Cursor is VS Code with an AI teammate.
 
 ## Start here
 
