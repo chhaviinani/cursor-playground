@@ -1,0 +1,36 @@
+---
+description: Add YAML frontmatter at the top of Markdown files so readers have context.
+globs: "**/*.md"
+alwaysApply: false
+---
+
+# Markdown YAML frontmatter
+
+When creating or editing a `.md` file, start it with YAML frontmatter so the user has context at a glance.
+
+Keep it short. Put the frontmatter first, then a blank line, then the body.
+
+```markdown
+---
+title: Hello
+description: Demo file for the Cursor sandbox.
+audience: beginners
+status: draft
+---
+
+# Hello
+
+This file is the demo.
+```
+
+Required fields:
+
+- `title`: short name of the doc
+- `description`: one sentence on what it is for
+
+Optional fields when they help:
+
+- `audience`: who this is for
+- `status`: `draft` or `ready`
+
+Do not invent extra metadata. Do not wrap existing docs in frontmatter unless the user asked or you are creating a new `.md` file.
